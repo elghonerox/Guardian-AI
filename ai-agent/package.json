@@ -1,0 +1,23 @@
+{
+  "name": "guardian-ai-agent",
+  "version": "2.1.0",
+  "description": "Autonomous AI security agent for Somnia blockchain - Enhanced Edition",
+  "main": "guardian-ai-agent.js",
+  "type": "module",
+  "scripts": {
+    "start": "node guardian-ai-agent.js",
+    "demo": "cross-env MODE=DEMO node guardian-ai-agent.js",
+    "live": "cross-env MODE=LIVE node guardian-ai-agent.js",
+    "test": "node test-guardian.js"
+  },
+  "dependencies": {
+    "web3": "^4.3.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "keywords": ["ai", "blockchain", "security", "somnia", "autonomous"],
+  "author": "Your Name",
+  "license": "MIT"
+}

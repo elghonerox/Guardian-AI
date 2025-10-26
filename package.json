@@ -1,0 +1,11 @@
+{
+  "name": "guardian-ai-hackathon",
+  "version": "1.0.0",
+  "description": "Autonomous AI security agent for Somnia blockchain",
+  "scripts": {
+    "start-agent": "cd ai-agent && npm start"
+  },
+  "keywords": ["blockchain", "ai", "security", "somnia"],
+  "author": "Web3 Knight",
+  "license": "MIT"
+}

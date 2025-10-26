@@ -1,0 +1,209 @@
+[
+  {
+    "timestamp": "2025-10-23T02:26:28.705Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 1,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:26:34.718Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 2,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:26:40.740Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 3,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:26:46.776Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 4,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:26:52.785Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 5,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:26:58.797Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 6,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:04.828Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 7,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:10.853Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 0,
+    "cycle": 8,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:17.383Z",
+    "action": "THREAT_DETECTED",
+    "reason": "Repeated failed transactions - potential probing attack",
+    "txHash": "demo-pause-tx",
+    "threatLevel": 1,
+    "cycle": 9,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:25.393Z",
+    "action": "RECOVERY",
+    "reason": "Threat neutralized",
+    "txHash": "demo-unpause-tx",
+    "threatLevel": 1,
+    "cycle": 9,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:31.413Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 1,
+    "cycle": 10,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:37.931Z",
+    "action": "THREAT_DETECTED",
+    "reason": "Repeated failed transactions - potential probing attack",
+    "txHash": "demo-pause-tx",
+    "threatLevel": 2,
+    "cycle": 11,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:45.937Z",
+    "action": "RECOVERY",
+    "reason": "Threat neutralized",
+    "txHash": "demo-unpause-tx",
+    "threatLevel": 2,
+    "cycle": 11,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:51.954Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 2,
+    "cycle": 12,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:27:58.479Z",
+    "action": "THREAT_DETECTED",
+    "reason": "Contract balance dropped below safety threshold",
+    "txHash": "demo-pause-tx",
+    "threatLevel": 3,
+    "cycle": 13,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:06.491Z",
+    "action": "RECOVERY",
+    "reason": "Threat neutralized",
+    "txHash": "demo-unpause-tx",
+    "threatLevel": 3,
+    "cycle": 13,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:12.522Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 14,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:18.549Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 15,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:24.583Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 16,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:30.608Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 17,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:36.625Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 18,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:42.655Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 19,
+    "mode": "DEMO"
+  },
+  {
+    "timestamp": "2025-10-23T02:28:48.671Z",
+    "action": "MONITORING_CYCLE",
+    "reason": "Normal operation",
+    "txHash": "normal",
+    "threatLevel": 3,
+    "cycle": 20,
+    "mode": "DEMO"
+  }
+]
